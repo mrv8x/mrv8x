@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<a href="https://github.com/mrv8x?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrv8x&theme=dark"/>
+</a>
+<a href="https://github.com/mrv8x?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrv8x&line_height=40&show_icons=true&theme=dark">
+</a>
+
 <!--
 **mrv8x/mrv8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

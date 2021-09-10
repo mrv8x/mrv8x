@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/mrv8x?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrv8x&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrv8x&theme=radical"/>
 </a>
 <a href="https://github.com/mrv8x?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrv8x&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrv8x&line_height=40&show_icons=true&theme=radical">
 </a>
 
 <!--

@@ -7,7 +7,6 @@
 <a href="https://github.com/mrv8x?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrv8x&line_height=40&show_icons=true&theme=radical">
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrv8x&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

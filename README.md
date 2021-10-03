@@ -6,7 +6,7 @@
 </a>
 <a href="https://github.com/mrv8x?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrv8x&line_height=40&show_icons=true&theme=radical">
-    <img style="width:48%;min-width:368px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrv8x&theme=radical" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrv8x&theme=radical" />
 
 </a>
 
